@@ -214,6 +214,9 @@ cython_debug/
 *.zip
 *.csv
 
+# Generated images (keep repo lightweight)
+/images/
+
 # Temporary files
 *.tmp
 *.temp
